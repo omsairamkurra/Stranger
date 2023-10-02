@@ -47,3 +47,6 @@ CREATE TABLE uer_follower(
     user_id VARCHAR(255) NOT NULL,
     PRIMARY KEY(id)
 )
+
+
+
